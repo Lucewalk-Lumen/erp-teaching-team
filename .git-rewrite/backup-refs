@@ -1,3 +1,6 @@
-65fd6a920a7bfd6b945182a722dfdf0a58a4ce02 commit	refs/heads/main
-65fd6a920a7bfd6b945182a722dfdf0a58a4ce02 commit	refs/remotes/origin/main
+ee32f1e77339a4fad94856f4b02aa507b465150a commit	refs/heads/main
+65fd6a920a7bfd6b945182a722dfdf0a58a4ce02 commit	refs/original/refs/heads/main
+65fd6a920a7bfd6b945182a722dfdf0a58a4ce02 commit	refs/original/refs/remotes/origin/main
+a1444ee40abb8c68386007be82bdebf1c74f5112 commit	refs/original/refs/tags/v1.0.0
+ee32f1e77339a4fad94856f4b02aa507b465150a commit	refs/remotes/origin/main
 93ddae6191ec08fc3a5f7bf364761114b0fb3b79 tag	refs/tags/v1.0.0
