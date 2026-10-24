@@ -5,7 +5,7 @@
 > ERP teaching team that teaches core concepts at four learner levels, sets exercises with clear rubrics, diagnoses where a learner is stuck, and plans what to study next — covering selection, five-year TCO/ROI, seven business domains, AI integration, and organizational adoption.
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/WorkBuddy-Experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 
 ## What it does
